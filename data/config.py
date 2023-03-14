@@ -1,4 +1,4 @@
-BOT_TOKEN = '**********:**************************'
+BOT_TOKEN = '6144727854:AAG3aC1gDIS68-3lsSvRYZhK-JxSOe6QGZ4'
 
 PROJECT_NAME = 'store-bot-example'
 
